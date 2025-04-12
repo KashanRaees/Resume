@@ -1,0 +1,56 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+    color: black;
+    text-shadow: 2px 2px 2px green;
+}
+
+.Me {
+    text-decoration: underline;
+    text-align: center;
+}
+
+.Self {
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+}
+
+.Contact {
+    text-decoration: underline;
+}
+
+.Edu {
+    text-decoration: underline;
+}
+
+.Skill {
+    text-decoration: underline;
+}
+
+.Prof {
+    text-decoration: underline;
+}
+
+.LM {
+    text-decoration: underline;
+}
+
+.Neem {
+    text-decoration: underline;
+}
+
+.Owner {
+    text-decoration: underline;
+}
+
+.Care {
+    text-decoration: underline;
+}
